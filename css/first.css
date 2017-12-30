@@ -1,0 +1,11 @@
+.abc{
+    width: 40%;
+    float: left;
+    background-color:#ff0000;
+    }
+.text_margin{
+    width: 50%;
+    float: right;
+    margin: 15px;
+    background-color:#00ffff;
+}
